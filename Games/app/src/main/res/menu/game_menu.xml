@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/character"
+        android:title="Character">
+        <menu>
+            <item
+                android:id="@+id/male_item"
+                android:title="Male" />
+            <item
+                android:id="@+id/female_item"
+                android:title="Female" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/color"
+        android:title="Color">
+        <menu>
+            <item
+                android:id="@+id/red_item"
+                android:title="Red" />
+            <item
+                android:id="@+id/black_item"
+                android:title="Black" />
+            <item
+                android:id="@+id/white_item"
+                android:title="White" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/font"
+        android:title="Font">
+        <menu>
+            <item
+                android:id="@+id/monospace_item"
+                android:title="Monospace" />
+            <item
+                android:id="@+id/sans_serif_item"
+                android:title="Sans-Serif" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/exit_rpg_item"
+        android:title="Exit" />
+</menu>

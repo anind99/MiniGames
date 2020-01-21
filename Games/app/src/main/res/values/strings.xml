@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="rpg_setting">Settings</string>
+    <string name="exit">Exit Game</string>
+    <string name="player_lp">LP: 4000</string>
+    <string name="action_key">Game Start</string>
+    <string name="lose_string">You Lose</string>
+    <string name="slot_occupied">Card slot is occupied</string>
+    <string name="winner_msg">You Are Winner</string>
+    <string name="summoned">You have summoned this turn already</string>
+    <string name="attacked">You have already attacked this turn</string>
+    <string name="deck_choice">Choose a deck</string>
+    <string name="background_change">Night</string>
+    <string name="character_change">Raegan Mode</string>
+    <string name="score">Score</string>
+    <string name="last_deck">Use Last Deck</string>
+</resources>
